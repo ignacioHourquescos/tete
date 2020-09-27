@@ -1,10 +1,10 @@
-img{
+#img{
     width:50px;
     height:50px;
 }
 
 
-img:hover{
+#img:hover{
     transform: scale(0.01);
     transition: transform .1s;
     transform: scale(5);
@@ -14,7 +14,7 @@ img:hover{
 }
     
 
-img {
+#img {
    
     top: 50%;
     left: 50%;
